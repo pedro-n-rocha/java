@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_65"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/bcprov-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/bcmail-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/bcpg-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/bcpkix-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/bcprov-ext-jdk15on-154.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/netty-all-4.1.0.Beta8.jar" sourcepath="C:/Users/P057536/crypto/crypto-engine/lib/netty-all-4.1.0.Beta8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P057536/crypto/crypto-engine/lib/netty-all-4.1.0.Beta8-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
